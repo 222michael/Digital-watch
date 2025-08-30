@@ -23,4 +23,4 @@ It updates every second and shows the current time in a clean and responsive des
 ## 📂 Project Structure
 ├── index.html # Main HTML file
 ├── style.css # CSS styles
-└── script.js # JavaScript logic
+└── index.js # JavaScript logic
