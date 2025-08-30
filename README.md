@@ -1,2 +1,3 @@
-# Digital-watch
-# Digital Watch ⏰  A simple **Digital Watch** created using **HTML, CSS, and JavaScript**.   It updates every second and shows the current time in a clean and responsive design.
+This project is a Digital Clock built with HTML, CSS, and JavaScript.
+It displays the current time in hours, minutes, and seconds, updating every second.
+It’s a simple project that demonstrates the use of the Date object, DOM manipulation, and real-time updates.
